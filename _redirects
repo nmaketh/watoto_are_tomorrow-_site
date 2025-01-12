@@ -1,0 +1,11 @@
+# Redirect from /home to /index.html
+/home    /index.html    200
+
+# Redirect from /about to /about.html
+/about    /about.html    200
+
+# Redirect from /contact to /contact.html
+/contact    /contact.html    200
+
+# Catch-all redirect to the homepage
+/*    /index.html    200
